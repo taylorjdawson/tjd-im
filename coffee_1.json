@@ -1,10 +1,10 @@
 {
-  name: "Coffee Bag 1",
-  image: "https://goo.gl/VDF8u3",
-  description: "A nice bag of coffee",
-attributes: {
-  weight: 7,
-  origin: "Kenya"
-},
-  external_url: "https://cryptopuff.io/3"
+	"name": "Coffee Bag 1",
+	"image": "https://goo.gl/VDF8u3",
+	"description": "A nice bag of coffee",
+	"attributes": {
+		"weight": 7,
+		"origin": "Kenya"
+	},
+	"external_url": "https://cryptopuff.io/3"
 }
