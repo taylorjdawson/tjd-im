@@ -1,3 +1,10 @@
 {
-  "test":"test"
+  "name": "Coffee Bag 0",
+  "image": "https://silodrome.com/wp-content/uploads/2013/01/Imogen-+-Willie-Drews-Brews-Coffee.jpg", 
+  "description": "A nice bag of coffee", 
+  "attributes": {
+    "weight": 3,
+    "origin": "Columbia"
+  },
+  "external_url": "https://cryptopuff.io/3"
 }
